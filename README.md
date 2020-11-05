@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**mrjvs/mrjvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm somewhat a Developer & Codam Student.
 
-Here are some ideas to get you started:
+- ⚙️ I use code daily with: `.env`, `package.json`, `.o`, `.gitignore`, `.npm install`, `.git clone`
+- 🌍 I'm not active
+- 🌱 Learning all about **HTML/CSS programming languages**
+- 💬 Ping me about **Copying harm-smits**
+- ⚡️ Hobbies: Yes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Contact me:
+[<img align="left" alt="mrjvs | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+
+[github]: https://github.com/mrjvs
