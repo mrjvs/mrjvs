@@ -5,7 +5,7 @@
 - ⚙️ I use code daily with: `.env`, `package.json`, `.o`, `.gitignore`, `.npm install`, `.git clone`
 - 🌍 I'm not active
 - 🌱 Learning all about **HTML/CSS programming languages**
-- 💬 Ping me about **Copying harm-smits**
+- 💬 Ping me about **Copying the readme of [harm-smits](https://github.com/harm-smits/)**
 - ⚡️ Hobbies: Yes
 
 
